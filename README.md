@@ -19,6 +19,11 @@ Email: khairil0153@gmail.com
 
 Saya adalah mahasiswa Teknik Informatika yang memiliki minat dalam pengembangan perangkat lunak dan teknologi modern. Saya fokus dalam membangun solusi digital yang efektif dan efisien, serta memiliki kemampuan problem solving yang baik. Saya juga aktif mempelajari teknologi terbaru dan mengembangkan keterampilan melalui berbagai proyek. Saya selalu berusaha memberikan hasil terbaik dalam setiap pekerjaan, baik secara individu maupun dalam tim.
 
+## Open Source Focus (2026)
+- Fokus kontribusi harian melalui PR di repo publik (prioritas bugfix, docs, atau UX minor yang jelas impact-nya).
+- Membuat improvement kecil namun konsisten pada tooling, automation, dan dokumentasi.
+- Menjaga kualitas: perubahan ringkas, teruji, dan gampang di-review.
+
 ## Tech Arsenal
 <div align="center">
 
